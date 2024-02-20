@@ -1,0 +1,11 @@
+.main {
+  background-image: url("https://media.tenor.com/sjol_0c5_x4AAAAd/minecraft.gif");
+  background-repeat: no-repeat;
+  background-size: 160vh, 90vh;
+  
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+}
